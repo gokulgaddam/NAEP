@@ -1,2 +1,2 @@
 # NAEP
-I have developed a classification model to predict whether a student can pass in an exam based on the time he has spent on each question. The dataset was provided by NAEP data mining competition 2019. 
+I have developed a classification model to predict whether a student can pass in an exam based on the time he has spent on each question. The dataset was provided by NAEP data mining competition 2019. We have developed a model on the training dataset provided by the competition and tested the model on the hidden_label.csv. The final model has achieved an aggregated score of 0.5413 and have secured fifth position in the overall competition.
